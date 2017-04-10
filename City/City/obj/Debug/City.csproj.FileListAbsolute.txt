@@ -1,0 +1,6 @@
+D:\Anna\City\City\bin\Debug\City.exe.config
+D:\Anna\City\City\bin\Debug\City.exe
+D:\Anna\City\City\bin\Debug\City.pdb
+D:\Anna\City\City\obj\Debug\City.csprojResolveAssemblyReference.cache
+D:\Anna\City\City\obj\Debug\City.exe
+D:\Anna\City\City\obj\Debug\City.pdb
